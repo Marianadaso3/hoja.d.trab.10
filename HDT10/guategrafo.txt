@@ -1,0 +1,4 @@
+espana guate 29
+guate francia 22
+francia alemania 12
+francia espana 6
